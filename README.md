@@ -6,6 +6,10 @@ How Flutter app can use tensorflow_lite to create and utilize on-device, offline
 
 There is a release available to download. If you want you can create your own binaries from source code
 
+## Models
+
+AI models used here can (and are) faulty as I did not train any myself yet. That's also a plan for future improvements
+
 ## Structure
 
 Feel free to just download the packages separately to use & expand upon them
