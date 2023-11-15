@@ -2,6 +2,7 @@ import 'package:digit_classification/main.dart';
 import 'package:gesture_reckognition/main.dart';
 import 'package:live_detection/ui/home_view.dart';
 import 'package:flutter/material.dart';
+import 'package:search_insights/main.dart';
 
 const List<Map<String, Object>> featureMap = [
   {
@@ -21,16 +22,16 @@ const List<Map<String, Object>> featureMap = [
   },
   {
     'name': 'Search insights',
-    'widget': LiveObjectDetectScreen(),
+    'widget': SearchInsightsScreen(),
     'icon': Icons.question_answer
   },
   {
-    'name': 'Speech reckognition',
+    'name': 'Speech reckognition (todo)',
     'widget': LiveObjectDetectScreen(),
     'icon': Icons.mic
   },
   {
-    'name': 'AI battleships',
+    'name': 'AI battleships (todo)',
     'widget': LiveObjectDetectScreen(),
     'icon': Icons.gamepad
   },

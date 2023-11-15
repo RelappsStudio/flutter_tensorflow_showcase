@@ -477,6 +477,13 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.2.1"
+  search_insights:
+    dependency: "direct main"
+    description:
+      path: "packages/search_insights"
+      relative: true
+    source: path
+    version: "1.0.0+1"
   sky_engine:
     dependency: transitive
     description: flutter

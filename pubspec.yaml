@@ -37,6 +37,8 @@ dependencies:
     path: packages/gesture_reckognition/
   digit_classification: 
     path: packages/digit_classification/
+  search_insights: 
+    path: packages/search_insights/
 
 
   # The following adds the Cupertino Icons font to your application.
